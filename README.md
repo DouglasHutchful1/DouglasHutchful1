@@ -24,7 +24,7 @@ Streamlining deployment processes and optimizing server configurations for high-
 - Database design and optimization
 
 # 📫 How to Reach Me
-Feel free to reach out via email at [douglas46ibk@gmail.com@example.com](mailto:douglas46ibk@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/douglas-hutchful-45462927b).
+Feel free to reach out via email at [douglas46ibk@gmail.com](mailto:douglas46ibk@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/douglas-hutchful-45462927b).
 
 
 
