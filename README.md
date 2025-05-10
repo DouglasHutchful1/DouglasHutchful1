@@ -1,6 +1,6 @@
 ![header](https://github.com/DouglasHutchful1/DouglasHutchful1/blob/25db916d7e39e3163275741ec6adafde3cbb9ca0/giphy.gif)
 
-<h1 align="center">Wa'sup👋, I'm Douglas Hutchful</h1>
+<h1 align="center">Whats'up👋, I'm Douglas Hutchful</h1>
 <!-- <h3 align="center">A passionate full stack developer .</h3> -->
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglashutchful1&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="douglashutchful" /></p>
