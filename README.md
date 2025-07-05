@@ -5,7 +5,7 @@
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglashutchful1&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="douglashutchful" /></p>
 
-# 🔭 Currently Working On
+<!-- # 🔭 Currently Working On
 Developing a dynamic blog site using PHP , with a strong emphasis on creating an intuitive and engaging user experience. Prioritizing features like  content management, interactive comment sections, and responsive design.
 
 # 🌱 Currently Learning
@@ -15,10 +15,10 @@ Exploring the intricacies of the C programming language to deepen my understandi
 Exciting open-source projects related to web development, particularly those involving PHP, JavaScript, and modern frameworks like Vue.js or React.
 
 # 🤔 Looking for Help With
-Streamlining deployment processes and optimizing server configurations for high-traffic applications. Seeking insights into best practices for securing PHP-based applications.
+Streamlining deployment processes and optimizing server configurations for high-traffic applications. Seeking insights into best practices for securing PHP-based applications. -->
 
 # 💬 Ask Me About
-- Full-stack web development
+- .Net/C#
 - PHP 
 - Front-end technologies (HTML, CSS, JavaScript)
 - Database design and optimization
