@@ -35,9 +35,7 @@
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api?username=douglashutchful1&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=douglashutchful1&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" 
-      alt="Douglas's GitHub stats" />
+
   </picture>
   &nbsp;&nbsp;&nbsp;
   <picture>
@@ -47,9 +45,7 @@
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=douglashutchful1&layout=compact&hide=jupyter%20notebook&theme=default&hide_border=true&langs_count=8" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=douglashutchful1&layout=compact&hide=jupyter%20notebook&theme=algolia&hide_border=true&langs_count=8" 
-      alt="Top Languages" />
+    
   </picture>
 </p>
 
